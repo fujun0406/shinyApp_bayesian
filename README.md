@@ -15,6 +15,6 @@ We consider the prior distribution are Beta or Truncated Normal and utilize appr
 ## Application
 Users can select the number of trials, prior distribtion and parameters to visualize the results. After choicing the variables, they can visualize prior, likelihood and posterior distribution.
 
-<img src="/image/shinyApp_bayesian_app.jpg" width="800"/> 
+<img src="/image/shinyApp_bayesian_app.JPG" width="800"/> 
 
 <em>Figure 1: The shiny app.</em>
