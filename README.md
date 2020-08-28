@@ -1,4 +1,4 @@
-# Project - Bayesian Coin Flips (Using Shiny App)
+# Project - Bayesian Coin Flip (Using Shiny App)
 
 ## Contents
 * [Background](#background)
